@@ -1,7 +1,9 @@
-* xref:global-one.adoc[]
-* xref:global-two.adoc[]
-* Global Subsection
-** xref:global-three.adoc[]
-** xref:global-four.adoc[]
-* xref:global-five.adoc[]
-* xref:global-six.adoc[]
+* xref:global:global-one.adoc[]
+* xref:global:global-two.adoc[]
+* Features
+* xref:global:features/global-seven.adoc[]
+* xref:global:features/global-eight.adoc[]
+* xref:global:global-three.adoc[]
+* xref:global:global-four.adoc[]
+* xref:global:global-five.adoc[]
+* xref:global:global-six.adoc[]

@@ -2,4 +2,4 @@
 
 Global-Eight in English V2
 
-Link to * xref:global:features/global-seven.adoc[]
+image::htm-getting-started-2.png[]

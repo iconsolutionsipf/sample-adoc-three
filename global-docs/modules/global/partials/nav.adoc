@@ -1,8 +1,8 @@
 * xref:global:global-one.adoc[]
 * xref:global:global-two.adoc[]
-* Features
-** xref:global:features/global-seven.adoc[]
+* xref:global:features/global-seven.adoc[]
 ** xref:global:features/global-eight.adoc[]
+** xref:global:features/global-nine.adoc[]
 * xref:global:global-three.adoc[]
 * xref:global:global-four.adoc[]
 * xref:global:global-five.adoc[]

@@ -1,3 +1,6 @@
 = Global-Seven Header
 
 Global-Seven in English V2
+
+Link to xref:global:features/global-eight.adoc[]
+Link to xref:global:features/global-nine.adoc[G9 Override]

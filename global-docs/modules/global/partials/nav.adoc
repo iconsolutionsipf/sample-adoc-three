@@ -1,0 +1,6 @@
+* xref:global-one.adoc[]
+* xref:global-two.adoc[]
+* Global Subsection
+** xref:global-three.adoc[]
+** xref:global-four.adoc[]
+* xref:global-five.adoc[]

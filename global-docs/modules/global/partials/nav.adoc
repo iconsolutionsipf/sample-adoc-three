@@ -4,6 +4,6 @@
 ** xref:global:features/global-eight.adoc[]
 ** xref:global:features/global-nine.adoc[]
 * xref:global:global-three.adoc[]
-* xref:global:global-four.adoc[]
+* xref:global:global-four.adoc[Override Four]
 * xref:global:global-five.adoc[]
 * xref:global:global-six.adoc[]

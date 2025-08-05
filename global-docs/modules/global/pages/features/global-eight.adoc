@@ -1,5 +1,27 @@
-= Global-Eight Header
+= HTM Processor
 
-Global-Eight in English V2
+The HTM floclient allows for custom configuration of each property that can be sent to the HTM service. This is done through the 'HTM Processor' interface.  It is possible to register a processor for each individual task type.
+
+== Default Processor
+
+The default HTM processor is used as a fallback for any task type where a custom processor has not been provided.  It has the following properties:
+
+
+[cols="1,1"]
+|===
+|Header One | Header Two
+
+|Value one
+|Value Two
+
+|Value One One
+|Value Two Two
+|===
+
+== Idempotency
+
+Some more text
 
 image::htm-getting-started-2.png[]
+
+And an image above

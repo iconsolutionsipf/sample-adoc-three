@@ -4,3 +4,4 @@
 ** xref:global-three.adoc[]
 ** xref:global-four.adoc[]
 * xref:global-five.adoc[]
+* xref:global-six.adoc[]
